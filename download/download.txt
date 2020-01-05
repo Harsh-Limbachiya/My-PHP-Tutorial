@@ -1,0 +1,1 @@
+hi i'am harsh and i am gonna teach u how to download a txt file with help of PHP.
